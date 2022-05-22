@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **jr.DevOps Engineering**
+- 🔭 I’m currently working as **jr.DevOps Engineering**
 
 - 🌱 I’m currently learning **DevOps engineering for example AWS,Google Cloud,Azure Cloud,Big Data,Git,Jenkins,Docker,Kubernetes,Ansible,Linux(Ubuntu,CentOS),Digital Ocean & Project management.**
 

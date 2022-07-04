@@ -2,7 +2,7 @@
 [![LinkedIn LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/naimul3070/)
 ------
 <h1 align="left">Naimul Islam</h1>
-<h3 align="left">A passionate DevOps Engineer from Bangladesh.</h3>
+<h3 align="left">DevOps Enthusiast | Azure | kubernetes | Docker | Linux | Cloud</h3>
 
 
 - 🔭 I’m currently working as **jr.DevOps Engineering**

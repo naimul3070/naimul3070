@@ -5,7 +5,7 @@
 <h3 align="left">DevOps Enthusiast | Azure | kubernetes | Docker | Linux | Cloud</h3>
 
 
-- 🔭 I’m currently working as **jr.DevOps Engineering**
+- 🔭 I’m currently working as ** DevOps Engineering**
 
 - 🌱 I’m currently learning **DevOps engineering for example AWS,Google Cloud,Azure Cloud,Big Data,
       Git,Docker,Kubernetes,Linux(Ubuntu,CentOS),Digital Ocean & Project management.**

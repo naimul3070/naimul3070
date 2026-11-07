@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64">
+<defs><linearGradient id="g" x1="0" x2="1" spreadMethod="reflect"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;1 0;0 0" dur="5s" repeatCount="indefinite"/></linearGradient></defs>
+<style>.a{animation:b 1.2s ease-in-out infinite}@keyframes b{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}</style>
+<rect x="1.5" y="1.5" width="997" height="61" rx="14" fill="#0a1426" stroke="url(#g)" stroke-width="2" stroke-dasharray="10 6"><animate attributeName="stroke-dashoffset" values="0;-32" dur="1.5s" repeatCount="indefinite"/></rect>
+<g class="a"><path d="M40 22 l10 12 l10 -12" fill="none" stroke="#22d3ee" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="a"><path d="M940 22 l10 12 l10 -12" fill="none" stroke="#34d399" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="500" y="30" text-anchor="middle" style="font:700 19px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#ffffff">There’s more below — click any section to open it</text>
+<text x="500" y="50" text-anchor="middle" style="font:500 13px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#9fb3d1">Experience · 6 contract projects · services · impact · certifications</text>
+</svg>

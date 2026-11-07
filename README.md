@@ -38,8 +38,10 @@
   <a href="https://github.com"><img src="./assets/stack/github.svg" width="46" alt="github"/></a>
 </p>
 
+<p align="center"><img src="./assets/hint.svg" width="100%" alt="There’s more below — click any section to open it"/></p>
+
 <details>
-<summary><b>💼 Services for clients</b></summary>
+<summary><b>💼 Services for clients</b> — 7 ways I can help&nbsp;<kbd>▼ Click to open</kbd></summary>
 <br/>
 
 | 🚀 Service | ✅ What you get |
@@ -55,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>🧭 Experience — RedLime · VML/WPP · Shohoz · iBOS · Akij</b></summary>
+<summary><b>🧭 Experience</b> — 11 roles: RedLime · VML/WPP · Shohoz · iBOS · Akij&nbsp;<kbd>▼ Click to open</kbd></summary>
 <br/>
 
 <table>
@@ -131,7 +133,7 @@
 </details>
 
 <details>
-<summary><b>🤝 Contract projects — Chardike · iBIT · iGen HR · Blastify · FinClarity · The Sail Pilot</b></summary>
+<summary><b>🤝 Contract projects</b> — 6 live client sites&nbsp;<kbd>▼ Click to open</kbd></summary>
 <br/>
 
 <p align="center">
@@ -147,7 +149,7 @@
 </details>
 
 <details>
-<summary><b>🚀 How I ship and impact</b></summary>
+<summary><b>🚀 How I ship</b> — pipeline, results and live terminal&nbsp;<kbd>▼ Click to open</kbd></summary>
 <br/>
 <p align="center"><img src="./assets/pipeline.svg" width="100%" alt="pipeline"/></p>
 <p align="center"><img src="./assets/stats.svg" width="100%" alt="impact"/></p>
@@ -155,7 +157,7 @@
 </details>
 
 <details>
-<summary><b>🎓 Certifications</b></summary>
+<summary><b>🎓 Certifications</b> — 5 earned, 4 in progress&nbsp;<kbd>▼ Click to open</kbd></summary>
 <br/>
 
 <p align="center"><img src="https://img.shields.io/badge/%E2%9C%94_Certified-Agile_Scrum_Foundation_and_Master-15803D?style=flat-square&labelColor=1F2937" alt="Agile Scrum Foundation and Master"/> <img src="https://img.shields.io/badge/%E2%9C%94_Certified-Ansible_for_DevOps-15803D?style=flat-square&labelColor=1F2937" alt="Ansible for DevOps"/> <img src="https://img.shields.io/badge/%E2%9C%94_Certified-Zabbix_6_Monitoring-15803D?style=flat-square&labelColor=1F2937" alt="Zabbix 6 Monitoring"/> <img src="https://img.shields.io/badge/%E2%9C%94_Certified-CIW_Web_Design_Specialist-15803D?style=flat-square&labelColor=1F2937" alt="CIW Web Design Specialist"/> <img src="https://img.shields.io/badge/%E2%9C%94_Certified-Web_App_Development_.NET-15803D?style=flat-square&labelColor=1F2937" alt="Web App Development .NET"/></p>

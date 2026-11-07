@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220">
+<style>
+ .n{font:800 26px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6f1ff} .l{font:500 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8fa6cc}
+ .arc{animation:arc 6s ease-out infinite}
+ .fade{animation:fade 6s ease-out infinite}
+ @keyframes fade{0%{opacity:0;transform:translateY(8px)}15%,85%{opacity:1;transform:none}100%{opacity:0}}
+</style>
+<rect width="1000" height="220" rx="16" fill="#070d1a" stroke="#1e3a6e"/>
+<style>@keyframes a0{0%{stroke-dashoffset:326.7}30%,85%{stroke-dashoffset:196.0}100%{stroke-dashoffset:326.7}}</style>
+<circle cx="125" cy="95" r="52" fill="none" stroke="#14233f" stroke-width="9"/>
+<circle cx="125" cy="95" r="52" fill="none" stroke="#22d3ee" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 125 95)" style="animation:a0 6s 0.0s ease-out infinite"/>
+<g class="fade" style="animation-delay:0.0s;transform-box:fill-box"><text x="125" y="104" text-anchor="middle" class="n">40%</text></g>
+<text x="125" y="182" text-anchor="middle" class="l">Faster deployments</text>
+<style>@keyframes a1{0%{stroke-dashoffset:326.7}30%,85%{stroke-dashoffset:0.0}100%{stroke-dashoffset:326.7}}</style>
+<circle cx="375" cy="95" r="52" fill="none" stroke="#14233f" stroke-width="9"/>
+<circle cx="375" cy="95" r="52" fill="none" stroke="#34d399" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 375 95)" style="animation:a1 6s 0.25s ease-out infinite"/>
+<g class="fade" style="animation-delay:0.25s;transform-box:fill-box"><text x="375" y="104" text-anchor="middle" class="n">99.99%</text></g>
+<text x="375" y="182" text-anchor="middle" class="l">Uptime, national platform</text>
+<style>@keyframes a2{0%{stroke-dashoffset:326.7}30%,85%{stroke-dashoffset:49.0}100%{stroke-dashoffset:326.7}}</style>
+<circle cx="625" cy="95" r="52" fill="none" stroke="#14233f" stroke-width="9"/>
+<circle cx="625" cy="95" r="52" fill="none" stroke="#8b5cf6" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 625 95)" style="animation:a2 6s 0.5s ease-out infinite"/>
+<g class="fade" style="animation-delay:0.5s;transform-box:fill-box"><text x="625" y="104" text-anchor="middle" class="n">500K+</text></g>
+<text x="625" y="182" text-anchor="middle" class="l">Users per hour handled</text>
+<style>@keyframes a3{0%{stroke-dashoffset:326.7}30%,85%{stroke-dashoffset:245.0}100%{stroke-dashoffset:326.7}}</style>
+<circle cx="875" cy="95" r="52" fill="none" stroke="#14233f" stroke-width="9"/>
+<circle cx="875" cy="95" r="52" fill="none" stroke="#fbbf24" stroke-width="9" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 875 95)" style="animation:a3 6s 0.75s ease-out infinite"/>
+<g class="fade" style="animation-delay:0.75s;transform-box:fill-box"><text x="875" y="104" text-anchor="middle" class="n">~25%</text></g>
+<text x="875" y="182" text-anchor="middle" class="l">Faster issue detection</text>
+</svg>

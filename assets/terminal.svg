@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 386" width="900" height="386">
+<style>
+ .p{font:700 15px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#34d399} .cmd{font:500 15px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#e6edf3}
+ .out{font:400 15px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#9fb3d1} .ok{font:400 15px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#7ee2b8} .ai{font:600 15px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#c4b5fd}
+ .ttl{font:500 13px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#7d8fb3}
+</style>
+<rect width="900" height="386" rx="14" fill="#070d1a" stroke="#1e3a6e"/>
+<rect width="900" height="38" rx="14" fill="#0d1830"/><rect y="24" width="900" height="14" fill="#0d1830"/>
+<circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
+<text x="450" y="24" text-anchor="middle" class="ttl">naimul@cloud: ~/production</text>
+<rect width="0" height="0"><animate id="loop" attributeName="width" from="0" to="0" dur="16s" begin="0s;loop.end"/></rect>
+<defs>
+<clipPath id="c0"><rect x="40" y="50" height="26" width="0"><set attributeName="width" to="0" begin="loop.begin"/><animate attributeName="width" from="0" to="65.19999999999999" begin="loop.begin+0.6s" dur="0.27s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="40" y="102" height="26" width="0"><set attributeName="width" to="0" begin="loop.begin"/><animate attributeName="width" from="0" to="286.0" begin="loop.begin+1.67s" dur="1.35s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="40" y="180" height="26" width="0"><set attributeName="width" to="0" begin="loop.begin"/><animate attributeName="width" from="0" to="276.79999999999995" begin="loop.begin+4.2700000000000005s" dur="1.3s" fill="freeze"/></rect></clipPath>
+<clipPath id="c7"><rect x="40" y="232" height="26" width="0"><set attributeName="width" to="0" begin="loop.begin"/><animate attributeName="width" from="0" to="396.4" begin="loop.begin+6.37s" dur="1.89s" fill="freeze"/></rect></clipPath>
+<clipPath id="c9"><rect x="40" y="284" height="26" width="0"><set attributeName="width" to="0" begin="loop.begin"/><animate attributeName="width" from="0" to="120.39999999999999" begin="loop.begin+9.059999999999999s" dur="0.54s" fill="freeze"/></rect></clipPath>
+</defs>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+0.6s"/><text x="18" y="68" class="p">$</text><text x="40" y="68" class="cmd" clip-path="url(#c0)">whoami</text></g>
+<text x="40" y="94" class="out" opacity="0" xml:space="preserve">naimul → DevOps Engineer | 5+ yrs DevOps · 9+ yrs IT<set attributeName="opacity" to="0" begin="loop.begin"/><animate attributeName="opacity" from="0" to="1" begin="loop.begin+1.22s" dur="0.3s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+1.67s"/><text x="18" y="120" class="p">$</text><text x="40" y="120" class="cmd" clip-path="url(#c2)">kubectl get pods -n production</text></g>
+<text x="40" y="146" class="ok" opacity="0" xml:space="preserve">api-gateway        1/1   Running   ✔<set attributeName="opacity" to="0" begin="loop.begin"/><animate attributeName="opacity" from="0" to="1" begin="loop.begin+3.37s" dur="0.3s" fill="freeze"/></text>
+<text x="40" y="172" class="ok" opacity="0" xml:space="preserve">telehealth-svc     1/1   Running   ✔<set attributeName="opacity" to="0" begin="loop.begin"/><animate attributeName="opacity" from="0" to="1" begin="loop.begin+3.82s" dur="0.3s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+4.2700000000000005s"/><text x="18" y="198" class="p">$</text><text x="40" y="198" class="cmd" clip-path="url(#c5)">terraform apply -auto-approve</text></g>
+<text x="40" y="224" class="ok" opacity="0" xml:space="preserve">Apply complete! Infrastructure is consistent and repeatable.<set attributeName="opacity" to="0" begin="loop.begin"/><animate attributeName="opacity" from="0" to="1" begin="loop.begin+5.92s" dur="0.3s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+6.37s"/><text x="18" y="250" class="p">$</text><text x="40" y="250" class="cmd" clip-path="url(#c7)">./deploy.sh --pipeline jenkins --ai-review</text></g>
+<text x="40" y="276" class="ok" opacity="0" xml:space="preserve">✔ AI review  ✔ tests  ✔ deployed — releases 40% faster<set attributeName="opacity" to="0" begin="loop.begin"/><animate attributeName="opacity" from="0" to="1" begin="loop.begin+8.61s" dur="0.3s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+9.059999999999999s"/><text x="18" y="302" class="p">$</text><text x="40" y="302" class="cmd" clip-path="url(#c9)">uptime --sla</text></g>
+<text x="40" y="328" class="ai" opacity="0" xml:space="preserve">99.99% · 500K+ concurrent users/hour · on call 24/7<set attributeName="opacity" to="0" begin="loop.begin"/><animate attributeName="opacity" from="0" to="1" begin="loop.begin+9.95s" dur="0.3s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="0" begin="loop.begin"/><set attributeName="opacity" to="1" begin="loop.begin+10.4s"/><text x="18" y="354" class="p">$</text><rect x="40" y="340" width="10" height="18" fill="#34d399"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
